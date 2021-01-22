@@ -1,0 +1,6 @@
+Acest proiect presupune realizarea unei aplicaţii relevante ce foloseşte servleturi. Sunt necesare minimum două servleturi care să comunice între ele.
+Aplicatia a fost conceputa pentru a se putea realiza deploy prin : arhive war pe diferite AS-uri (Tomcat, Jetty, Wildfly..); si realizarea de aplicaţii embedded pentru Tomcat şi Jetty
+
+Ideea aplicatiei:
+Aplicația creată, reprezintă un joc care simulează o extragere la loto, utilizatorul  va avea posibillitatea să aleagă ce tip de joc vrea să joace 6 din 49 sau 5 din 40 și va completa cu numere un formular care reprezintă un bilet la loto,
+dupa care se va realiza o extragere random a 6 numere, care va fi comparată cu biletul utilizatorului și se va afișa cate numere a ghicit utilizatorul.
